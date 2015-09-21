@@ -1,2 +1,4 @@
 # First-Repository
-sample hello this is the change i have made
+Hello World
+hi everyone....
+how r u ???
